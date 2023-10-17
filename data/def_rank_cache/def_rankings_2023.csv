@@ -1,0 +1,769 @@
+Team,Avg,Abbr,week,position,rolling_avg
+Los Angeles Chargers,27.14,LAC,1,QB,0.0
+Philadelphia Eagles,24.14,PHI,1,QB,0.0
+Chicago Bears,23.0,CHI,1,QB,0.0
+Jacksonville Jaguars,20.92,JAX,1,QB,0.0
+Miami Dolphins,20.86,MIA,1,QB,0.0
+Cincinnati Bengals,20.66,CIN,1,QB,0.0
+Detroit Lions,19.54,DET,1,QB,0.0
+Indianapolis Colts,17.74,IND,1,QB,0.0
+Pittsburgh Steelers,16.6,PIT,1,QB,0.0
+Tampa Bay Buccaneers,16.46,TB,1,QB,0.0
+Minnesota Vikings,16.02,MIN,1,QB,0.0
+Las Vegas Raiders,15.18,LV,1,QB,0.0
+Arizona Cardinals,15.18,ARI,1,QB,0.0
+Denver Broncos,15.1,DEN,1,QB,0.0
+Tennessee Titans,14.6,TEN,1,QB,0.0
+Green Bay Packers,14.54,GB,1,QB,0.0
+Seattle Seahawks,14.46,SEA,1,QB,0.0
+Kansas City Chiefs,14.02,KC,1,QB,0.0
+New England Patriots,12.5,NE,1,QB,0.0
+Baltimore Ravens,10.68,BAL,1,QB,0.0
+San Francisco 49ers,9.68,SF,1,QB,0.0
+Los Angeles Rams,9.08,LA,1,QB,0.0
+New York Jets,9.04,NYJ,1,QB,0.0
+Carolina Panthers,8.9,CAR,1,QB,0.0
+Buffalo Bills,8.2,BUF,1,QB,0.0
+Atlanta Falcons,7.54,ATL,1,QB,0.0
+Houston Texans,6.56,HOU,1,QB,0.0
+New York Giants,6.32,NYG,1,QB,0.0
+Dallas Cowboys,4.7,DAL,1,QB,0.0
+Cleveland Browns,3.08,CLE,1,QB,0.0
+New Orleans Saints,2.42,NO,1,QB,0.0
+Washington Commanders,0.98,WAS,1,QB,0.0
+Carolina Panthers,44.7,CAR,1,RB,0.0
+Miami Dolphins,41.5,MIA,1,RB,0.0
+Chicago Bears,34.5,CHI,1,RB,0.0
+Green Bay Packers,33.3,GB,1,RB,0.0
+Houston Texans,29.8,HOU,1,RB,0.0
+Buffalo Bills,28.4,BUF,1,RB,0.0
+Pittsburgh Steelers,26.9,PIT,1,RB,0.0
+Indianapolis Colts,26.3,IND,1,RB,0.0
+Seattle Seahawks,26.3,SEA,1,RB,0.0
+Philadelphia Eagles,25.8,PHI,1,RB,0.0
+New York Giants,25.4,NYG,1,RB,0.0
+Las Vegas Raiders,23.1,LV,1,RB,0.0
+Kansas City Chiefs,21.4,KC,1,RB,0.0
+Atlanta Falcons,20.7,ATL,1,RB,0.0
+Los Angeles Chargers,19.5,LAC,1,RB,0.0
+Tampa Bay Buccaneers,18.9,TB,1,RB,0.0
+Cincinnati Bengals,18.3,CIN,1,RB,0.0
+New Orleans Saints,17.7,NO,1,RB,0.0
+New York Jets,16.9,NYJ,1,RB,0.0
+Detroit Lions,15.3,DET,1,RB,0.0
+San Francisco 49ers,15.2,SF,1,RB,0.0
+Arizona Cardinals,15.2,ARI,1,RB,0.0
+New England Patriots,14.7,NE,1,RB,0.0
+Los Angeles Rams,14.6,LA,1,RB,0.0
+Dallas Cowboys,14.0,DAL,1,RB,0.0
+Cleveland Browns,13.1,CLE,1,RB,0.0
+Baltimore Ravens,13.0,BAL,1,RB,0.0
+Minnesota Vikings,12.1,MIN,1,RB,0.0
+Washington Commanders,11.6,WAS,1,RB,0.0
+Denver Broncos,10.8,DEN,1,RB,0.0
+Jacksonville Jaguars,8.7,JAX,1,RB,0.0
+Tennessee Titans,7.7,TEN,1,RB,0.0
+Los Angeles Chargers,78.2,LAC,1,WR,0.0
+Tennessee Titans,49.3,TEN,1,WR,0.0
+Tampa Bay Buccaneers,46.2,TB,1,WR,0.0
+Seattle Seahawks,46.2,SEA,1,WR,0.0
+Pittsburgh Steelers,44.2,PIT,1,WR,0.0
+Denver Broncos,43.2,DEN,1,WR,0.0
+Indianapolis Colts,42.3,IND,1,WR,0.0
+Minnesota Vikings,40.5,MIN,1,WR,0.0
+Philadelphia Eagles,39.7,PHI,1,WR,0.0
+Baltimore Ravens,38.9,BAL,1,WR,0.0
+San Francisco 49ers,37.5,SF,1,WR,0.0
+New England Patriots,36.3,NE,1,WR,0.0
+New York Jets,35.7,NYJ,1,WR,0.0
+Kansas City Chiefs,34.9,KC,1,WR,0.0
+Jacksonville Jaguars,31.2,JAX,1,WR,0.0
+Las Vegas Raiders,30.3,LV,1,WR,0.0
+Houston Texans,29.9,HOU,1,WR,0.0
+Detroit Lions,29.5,DET,1,WR,0.0
+Chicago Bears,29.0,CHI,1,WR,0.0
+Miami Dolphins,28.5,MIA,1,WR,0.0
+New York Giants,28.4,NYG,1,WR,0.0
+New Orleans Saints,28.0,NO,1,WR,0.0
+Buffalo Bills,27.0,BUF,1,WR,0.0
+Arizona Cardinals,25.1,ARI,1,WR,0.0
+Green Bay Packers,23.2,GB,1,WR,0.0
+Los Angeles Rams,21.0,LA,1,WR,0.0
+Washington Commanders,20.1,WAS,1,WR,0.0
+Cincinnati Bengals,18.1,CIN,1,WR,0.0
+Atlanta Falcons,15.3,ATL,1,WR,0.0
+Cleveland Browns,12.1,CLE,1,WR,0.0
+Dallas Cowboys,7.1,DAL,1,WR,0.0
+Carolina Panthers,6.1,CAR,1,WR,0.0
+Philadelphia Eagles,23.2,PHI,1,TE,0.0
+Tampa Bay Buccaneers,17.7,TB,1,TE,0.0
+Atlanta Falcons,16.3,ATL,1,TE,0.0
+Miami Dolphins,15.5,MIA,1,TE,0.0
+Detroit Lions,15.3,DET,1,TE,0.0
+Cincinnati Bengals,15.1,CIN,1,TE,0.0
+Las Vegas Raiders,12.6,LV,1,TE,0.0
+Kansas City Chiefs,12.6,KC,1,TE,0.0
+Washington Commanders,12.4,WAS,1,TE,0.0
+New York Jets,12.1,NYJ,1,TE,0.0
+Dallas Cowboys,11.4,DAL,1,TE,0.0
+San Francisco 49ers,11.2,SF,1,TE,0.0
+Seattle Seahawks,11.0,SEA,1,TE,0.0
+Arizona Cardinals,11.0,ARI,1,TE,0.0
+Jacksonville Jaguars,10.9,JAX,1,TE,0.0
+Indianapolis Colts,9.9,IND,1,TE,0.0
+Green Bay Packers,9.4,GB,1,TE,0.0
+Chicago Bears,8.0,CHI,1,TE,0.0
+Los Angeles Chargers,7.4,LAC,1,TE,0.0
+Tennessee Titans,7.0,TEN,1,TE,0.0
+Carolina Panthers,6.4,CAR,1,TE,0.0
+Los Angeles Rams,5.5,LA,1,TE,0.0
+Pittsburgh Steelers,4.9,PIT,1,TE,0.0
+Cleveland Browns,4.7,CLE,1,TE,0.0
+Baltimore Ravens,4.5,BAL,1,TE,0.0
+Minnesota Vikings,3.9,MIN,1,TE,0.0
+New York Giants,3.1,NYG,1,TE,0.0
+Denver Broncos,3.0,DEN,1,TE,0.0
+Houston Texans,1.4,HOU,1,TE,0.0
+Buffalo Bills,1.2,BUF,1,TE,0.0
+New Orleans Saints,0.0,NO,1,TE,0.0
+New England Patriots,0.0,NE,1,TE,0.0
+Arizona Cardinals,30.74,ARI,2,QB,15.18
+Houston Texans,28.88,HOU,2,QB,6.56
+Philadelphia Eagles,28.56,PHI,2,QB,24.14
+Washington Commanders,25.92,WAS,2,QB,0.98
+Minnesota Vikings,25.22,MIN,2,QB,16.02
+New York Giants,25.22,NYG,2,QB,6.32
+Las Vegas Raiders,23.46,LV,2,QB,15.18
+Detroit Lions,23.12,DET,2,QB,19.54
+Seattle Seahawks,22.92,SEA,2,QB,14.46
+Cincinnati Bengals,22.88,CIN,2,QB,20.66
+Tennessee Titans,22.2,TEN,2,QB,14.6
+Indianapolis Colts,21.46,IND,2,QB,17.74
+Green Bay Packers,21.38,GB,2,QB,14.54
+Denver Broncos,21.26,DEN,2,QB,15.1
+Jacksonville Jaguars,21.2,JAX,2,QB,20.92
+Los Angeles Chargers,21.04,LAC,2,QB,27.14
+Atlanta Falcons,20.34,ATL,2,QB,7.54
+New York Jets,19.6,NYJ,2,QB,9.04
+Chicago Bears,18.38,CHI,2,QB,23.0
+Baltimore Ravens,15.38,BAL,2,QB,10.68
+Los Angeles Rams,14.74,LA,2,QB,9.08
+Tampa Bay Buccaneers,14.74,TB,2,QB,16.46
+San Francisco 49ers,13.98,SF,2,QB,9.68
+Miami Dolphins,13.74,MIA,2,QB,20.86
+New Orleans Saints,13.52,NO,2,QB,2.42
+New England Patriots,12.26,NE,2,QB,12.5
+Pittsburgh Steelers,11.6,PIT,2,QB,16.6
+Cleveland Browns,10.28,CLE,2,QB,3.08
+Kansas City Chiefs,9.24,KC,2,QB,14.02
+Dallas Cowboys,8.4,DAL,2,QB,4.7
+Buffalo Bills,7.5,BUF,2,QB,8.2
+Carolina Panthers,6.72,CAR,2,QB,8.9
+Las Vegas Raiders,40.3,LV,2,RB,23.1
+Denver Broncos,37.2,DEN,2,RB,10.8
+Pittsburgh Steelers,36.6,PIT,2,RB,26.9
+New England Patriots,34.7,NE,2,RB,14.7
+Minnesota Vikings,33.5,MIN,2,RB,12.1
+New York Jets,31.4,NYJ,2,RB,16.9
+San Francisco 49ers,29.4,SF,2,RB,15.2
+Arizona Cardinals,27.7,ARI,2,RB,15.2
+Seattle Seahawks,26.5,SEA,2,RB,26.3
+Green Bay Packers,26.0,GB,2,RB,33.3
+Los Angeles Chargers,26.0,LAC,2,RB,19.5
+Detroit Lions,23.7,DET,2,RB,15.3
+Chicago Bears,23.2,CHI,2,RB,34.5
+Los Angeles Rams,22.5,LA,2,RB,14.6
+Houston Texans,20.7,HOU,2,RB,29.8
+Cincinnati Bengals,20.5,CIN,2,RB,18.3
+Washington Commanders,20.0,WAS,2,RB,11.6
+New York Giants,19.7,NYG,2,RB,25.4
+Carolina Panthers,18.3,CAR,2,RB,44.7
+Cleveland Browns,17.9,CLE,2,RB,13.1
+New Orleans Saints,17.7,NO,2,RB,17.7
+Jacksonville Jaguars,16.9,JAX,2,RB,8.7
+Miami Dolphins,16.3,MIA,2,RB,41.5
+Baltimore Ravens,16.1,BAL,2,RB,13.0
+Tampa Bay Buccaneers,13.0,TB,2,RB,18.9
+Buffalo Bills,11.6,BUF,2,RB,28.4
+Indianapolis Colts,9.3,IND,2,RB,26.3
+Kansas City Chiefs,8.9,KC,2,RB,21.4
+Tennessee Titans,8.1,TEN,2,RB,7.7
+Atlanta Falcons,7.9,ATL,2,RB,20.7
+Philadelphia Eagles,7.8,PHI,2,RB,25.8
+Dallas Cowboys,3.2,DAL,2,RB,14.0
+Indianapolis Colts,63.9,IND,2,WR,42.3
+Washington Commanders,59.4,WAS,2,WR,20.1
+Tennessee Titans,54.7,TEN,2,WR,49.3
+Baltimore Ravens,54.2,BAL,2,WR,38.9
+Seattle Seahawks,52.7,SEA,2,WR,46.2
+Philadelphia Eagles,51.5,PHI,2,WR,39.7
+San Francisco 49ers,50.3,SF,2,WR,37.5
+Detroit Lions,49.1,DET,2,WR,29.5
+Chicago Bears,45.7,CHI,2,WR,29.0
+Las Vegas Raiders,45.3,LV,2,WR,30.3
+Arizona Cardinals,41.6,ARI,2,WR,25.1
+Cincinnati Bengals,40.3,CIN,2,WR,18.1
+Atlanta Falcons,38.3,ATL,2,WR,15.3
+New England Patriots,38.1,NE,2,WR,36.3
+Carolina Panthers,37.4,CAR,2,WR,6.1
+Jacksonville Jaguars,37.3,JAX,2,WR,31.2
+Los Angeles Rams,36.5,LA,2,WR,21.0
+Los Angeles Chargers,36.0,LAC,2,WR,78.2
+New York Jets,33.9,NYJ,2,WR,35.7
+Denver Broncos,33.3,DEN,2,WR,43.2
+Pittsburgh Steelers,30.5,PIT,2,WR,44.2
+New York Giants,30.3,NYG,2,WR,28.4
+Minnesota Vikings,30.0,MIN,2,WR,40.5
+New Orleans Saints,29.2,NO,2,WR,28.0
+Tampa Bay Buccaneers,28.7,TB,2,WR,46.2
+Kansas City Chiefs,28.66,KC,2,WR,34.9
+Miami Dolphins,28.3,MIA,2,WR,28.5
+Cleveland Browns,28.2,CLE,2,WR,12.1
+Houston Texans,27.8,HOU,2,WR,29.9
+Green Bay Packers,27.7,GB,2,WR,23.2
+Buffalo Bills,27.1,BUF,2,WR,27.0
+Dallas Cowboys,22.2,DAL,2,WR,7.1
+Philadelphia Eagles,28.9,PHI,2,TE,23.2
+Miami Dolphins,25.5,MIA,2,TE,15.5
+Detroit Lions,22.2,DET,2,TE,15.3
+Denver Broncos,21.9,DEN,2,TE,3.0
+Las Vegas Raiders,20.6,LV,2,TE,12.6
+Houston Texans,20.0,HOU,2,TE,1.4
+Jacksonville Jaguars,19.4,JAX,2,TE,10.9
+Cincinnati Bengals,17.3,CIN,2,TE,15.1
+New York Jets,17.2,NYJ,2,TE,12.1
+New York Giants,16.8,NYG,2,TE,3.1
+Carolina Panthers,16.02,CAR,2,TE,6.4
+Arizona Cardinals,13.6,ARI,2,TE,11.0
+Tennessee Titans,12.8,TEN,2,TE,7.0
+Indianapolis Colts,12.3,IND,2,TE,9.9
+Green Bay Packers,12.2,GB,2,TE,9.4
+Kansas City Chiefs,11.7,KC,2,TE,12.6
+Seattle Seahawks,11.3,SEA,2,TE,11.0
+Chicago Bears,11.1,CHI,2,TE,8.0
+Dallas Cowboys,10.0,DAL,2,TE,11.4
+Minnesota Vikings,8.2,MIN,2,TE,3.9
+Pittsburgh Steelers,8.0,PIT,2,TE,4.9
+Tampa Bay Buccaneers,7.8,TB,2,TE,17.7
+Los Angeles Chargers,7.5,LAC,2,TE,7.4
+Atlanta Falcons,7.0,ATL,2,TE,16.3
+Los Angeles Rams,6.0,LA,2,TE,5.5
+New England Patriots,5.3,NE,2,TE,0.0
+Buffalo Bills,5.2,BUF,2,TE,1.2
+New Orleans Saints,5.0,NO,2,TE,0.0
+San Francisco 49ers,4.2,SF,2,TE,11.2
+Baltimore Ravens,3.0,BAL,2,TE,4.5
+Cleveland Browns,1.2,CLE,2,TE,4.7
+Washington Commanders,0.0,WAS,2,TE,12.4
+Denver Broncos,34.94,DEN,3,QB,18.18
+Minnesota Vikings,29.3,MIN,3,QB,20.619999999999997
+Indianapolis Colts,28.18,IND,3,QB,19.6
+Los Angeles Chargers,25.68,LAC,3,QB,24.09
+New Orleans Saints,24.26,NO,3,QB,7.97
+Seattle Seahawks,23.54,SEA,3,QB,18.69
+Chicago Bears,22.82,CHI,3,QB,20.689999999999998
+Tennessee Titans,21.16,TEN,3,QB,18.4
+Washington Commanders,21.12,WAS,3,QB,13.450000000000001
+Jacksonville Jaguars,20.6,JAX,3,QB,21.060000000000002
+New York Giants,20.2,NYG,3,QB,15.77
+Tampa Bay Buccaneers,19.88,TB,3,QB,15.600000000000001
+Las Vegas Raiders,18.5,LV,3,QB,19.32
+Atlanta Falcons,18.02,ATL,3,QB,13.94
+Pittsburgh Steelers,17.66,PIT,3,QB,14.100000000000001
+Dallas Cowboys,17.06,DAL,3,QB,6.550000000000001
+Carolina Panthers,15.44,CAR,3,QB,7.8100000000000005
+Houston Texans,14.72,HOU,3,QB,17.72
+Arizona Cardinals,14.36,ARI,3,QB,22.96
+Miami Dolphins,14.24,MIA,3,QB,17.3
+New York Jets,13.34,NYJ,3,QB,14.32
+Baltimore Ravens,13.08,BAL,3,QB,13.030000000000001
+Green Bay Packers,12.16,GB,3,QB,17.96
+Cincinnati Bengals,11.46,CIN,3,QB,21.77
+Kansas City Chiefs,10.66,KC,3,QB,11.629999999999999
+Philadelphia Eagles,10.04,PHI,3,QB,26.35
+Los Angeles Rams,8.16,LA,3,QB,11.91
+New England Patriots,6.38,NE,3,QB,12.379999999999999
+Detroit Lions,6.34,DET,3,QB,21.33
+San Francisco 49ers,4.18,SF,3,QB,11.83
+Cleveland Browns,4.16,CLE,3,QB,6.68
+Buffalo Bills,0.6,BUF,3,QB,7.85
+Denver Broncos,103.1,DEN,3,RB,24.0
+Chicago Bears,46.3,CHI,3,RB,28.85
+Carolina Panthers,37.6,CAR,3,RB,31.5
+Arizona Cardinals,31.8,ARI,3,RB,21.45
+New York Giants,31.7,NYG,3,RB,22.549999999999997
+Houston Texans,28.0,HOU,3,RB,25.25
+Tennessee Titans,27.3,TEN,3,RB,7.9
+Baltimore Ravens,25.6,BAL,3,RB,14.55
+Washington Commanders,23.8,WAS,3,RB,15.8
+Los Angeles Chargers,23.3,LAC,3,RB,22.75
+Dallas Cowboys,22.9,DAL,3,RB,8.6
+Jacksonville Jaguars,21.4,JAX,3,RB,12.799999999999999
+Tampa Bay Buccaneers,20.6,TB,3,RB,15.95
+Seattle Seahawks,19.6,SEA,3,RB,26.4
+New England Patriots,17.0,NE,3,RB,24.700000000000003
+New York Jets,16.9,NYJ,3,RB,24.15
+San Francisco 49ers,16.4,SF,3,RB,22.299999999999997
+Indianapolis Colts,15.7,IND,3,RB,17.8
+Detroit Lions,14.9,DET,3,RB,19.5
+Las Vegas Raiders,14.7,LV,3,RB,31.7
+Pittsburgh Steelers,14.6,PIT,3,RB,31.75
+Los Angeles Rams,14.4,LA,3,RB,18.55
+Miami Dolphins,14.4,MIA,3,RB,28.9
+Green Bay Packers,13.6,GB,3,RB,29.65
+Atlanta Falcons,12.0,ATL,3,RB,14.3
+New Orleans Saints,11.4,NO,3,RB,17.7
+Buffalo Bills,10.4,BUF,3,RB,20.0
+Kansas City Chiefs,10.4,KC,3,RB,15.149999999999999
+Cincinnati Bengals,8.5,CIN,3,RB,19.4
+Philadelphia Eagles,7.3,PHI,3,RB,16.8
+Cleveland Browns,6.9,CLE,3,RB,15.5
+Minnesota Vikings,3.4,MIN,3,RB,22.8
+Minnesota Vikings,89.46,MIN,3,WR,35.25
+Seattle Seahawks,65.4,SEA,3,WR,49.45
+Pittsburgh Steelers,64.0,PIT,3,WR,37.35
+Miami Dolphins,52.0,MIA,3,WR,28.4
+Los Angeles Chargers,51.2,LAC,3,WR,57.1
+Tennessee Titans,44.4,TEN,3,WR,52.0
+Dallas Cowboys,43.9,DAL,3,WR,14.649999999999999
+Tampa Bay Buccaneers,42.7,TB,3,WR,37.45
+Los Angeles Rams,40.7,LA,3,WR,28.75
+New York Giants,40.6,NYG,3,WR,29.35
+Jacksonville Jaguars,40.6,JAX,3,WR,34.25
+Baltimore Ravens,39.0,BAL,3,WR,46.55
+Denver Broncos,38.3,DEN,3,WR,38.25
+New Orleans Saints,38.1,NO,3,WR,28.6
+Washington Commanders,38.0,WAS,3,WR,39.75
+Cincinnati Bengals,36.7,CIN,3,WR,29.2
+Green Bay Packers,35.4,GB,3,WR,25.45
+Carolina Panthers,35.1,CAR,3,WR,21.75
+Las Vegas Raiders,33.1,LV,3,WR,37.8
+Houston Texans,32.4,HOU,3,WR,28.85
+Chicago Bears,31.8,CHI,3,WR,37.35
+Philadelphia Eagles,29.6,PHI,3,WR,45.6
+Arizona Cardinals,29.1,ARI,3,WR,33.35
+Atlanta Falcons,29.1,ATL,3,WR,26.799999999999997
+Indianapolis Colts,22.5,IND,3,WR,53.099999999999994
+Buffalo Bills,21.6,BUF,3,WR,27.05
+San Francisco 49ers,20.7,SF,3,WR,43.9
+New England Patriots,18.9,NE,3,WR,37.2
+Kansas City Chiefs,17.2,KC,3,WR,31.78
+New York Jets,17.0,NYJ,3,WR,34.8
+Cleveland Browns,15.4,CLE,3,WR,20.15
+Detroit Lions,10.9,DET,3,WR,39.3
+Minnesota Vikings,23.4,MIN,3,TE,6.05
+Atlanta Falcons,22.4,ATL,3,TE,11.65
+Los Angeles Chargers,22.2,LAC,3,TE,7.45
+Chicago Bears,21.8,CHI,3,TE,9.55
+New York Jets,21.6,NYJ,3,TE,14.649999999999999
+Houston Texans,17.8,HOU,3,TE,10.7
+Detroit Lions,17.4,DET,3,TE,18.75
+Jacksonville Jaguars,17.2,JAX,3,TE,15.149999999999999
+New York Giants,16.0,NYG,3,TE,9.950000000000001
+Carolina Panthers,14.9,CAR,3,TE,11.21
+Green Bay Packers,14.1,GB,3,TE,10.8
+Las Vegas Raiders,13.1,LV,3,TE,16.6
+Cincinnati Bengals,12.1,CIN,3,TE,16.2
+Arizona Cardinals,11.1,ARI,3,TE,12.3
+New Orleans Saints,10.9,NO,3,TE,2.5
+Tampa Bay Buccaneers,10.7,TB,3,TE,12.75
+Buffalo Bills,10.7,BUF,3,TE,3.2
+Indianapolis Colts,10.5,IND,3,TE,11.100000000000001
+New England Patriots,7.5,NE,3,TE,2.65
+San Francisco 49ers,6.8,SF,3,TE,7.699999999999999
+Los Angeles Rams,6.7,LA,3,TE,5.75
+Tennessee Titans,6.4,TEN,3,TE,9.9
+Seattle Seahawks,6.4,SEA,3,TE,11.15
+Baltimore Ravens,5.0,BAL,3,TE,3.75
+Washington Commanders,4.4,WAS,3,TE,6.2
+Kansas City Chiefs,4.2,KC,3,TE,12.149999999999999
+Dallas Cowboys,3.8,DAL,3,TE,10.7
+Cleveland Browns,3.7,CLE,3,TE,2.95
+Philadelphia Eagles,2.6,PHI,3,TE,26.049999999999997
+Denver Broncos,2.5,DEN,3,TE,12.45
+Miami Dolphins,2.1,MIA,3,TE,20.5
+Pittsburgh Steelers,2.0,PIT,3,TE,6.45
+Miami Dolphins,36.2,MIA,4,QB,16.28
+Los Angeles Rams,29.6,LA,4,QB,10.66
+Cleveland Browns,28.94,CLE,4,QB,5.84
+Denver Broncos,27.9,DEN,4,QB,23.766666666666666
+Washington Commanders,24.16,WAS,4,QB,16.006666666666668
+San Francisco 49ers,23.4,SF,4,QB,9.28
+Las Vegas Raiders,23.38,LV,4,QB,19.046666666666667
+New Orleans Saints,22.94,NO,4,QB,13.4
+Chicago Bears,22.22,CHI,4,QB,21.400000000000002
+Pittsburgh Steelers,21.84,PIT,4,QB,15.286666666666667
+Arizona Cardinals,21.22,ARI,4,QB,20.093333333333334
+Philadelphia Eagles,19.6,PHI,4,QB,20.91333333333333
+Kansas City Chiefs,19.2,KC,4,QB,11.306666666666667
+Detroit Lions,17.64,DET,4,QB,16.333333333333332
+Atlanta Falcons,16.48,ATL,4,QB,15.299999999999999
+Indianapolis Colts,16.16,IND,4,QB,22.459999999999997
+New England Patriots,14.94,NE,4,QB,10.38
+Buffalo Bills,13.98,BUF,4,QB,5.433333333333334
+New York Jets,13.22,NYJ,4,QB,13.993333333333334
+New York Giants,12.82,NYG,4,QB,17.246666666666666
+Cincinnati Bengals,12.7,CIN,4,QB,18.333333333333332
+Green Bay Packers,11.4,GB,4,QB,16.026666666666667
+Los Angeles Chargers,9.82,LAC,4,QB,24.62
+Carolina Panthers,9.56,CAR,4,QB,10.353333333333333
+Seattle Seahawks,8.72,SEA,4,QB,20.30666666666667
+Minnesota Vikings,7.16,MIN,4,QB,23.513333333333332
+Jacksonville Jaguars,6.24,JAX,4,QB,20.906666666666666
+Tennessee Titans,4.7,TEN,4,QB,19.32
+Houston Texans,4.18,HOU,4,QB,16.72
+Dallas Cowboys,2.98,DAL,4,QB,10.053333333333333
+Baltimore Ravens,1.24,BAL,4,QB,13.046666666666667
+Tampa Bay Buccaneers,1.18,TB,4,QB,17.026666666666667
+Arizona Cardinals,53.7,ARI,4,RB,24.900000000000002
+Green Bay Packers,43.2,GB,4,RB,24.299999999999997
+Buffalo Bills,35.8,BUF,4,RB,16.8
+Indianapolis Colts,35.4,IND,4,RB,17.099999999999998
+Los Angeles Chargers,35.0,LAC,4,RB,22.933333333333334
+Cincinnati Bengals,33.18,CIN,4,RB,15.766666666666666
+Chicago Bears,28.8,CHI,4,RB,34.666666666666664
+New York Jets,27.8,NYJ,4,RB,21.73333333333333
+Miami Dolphins,25.2,MIA,4,RB,24.066666666666666
+Denver Broncos,24.7,DEN,4,RB,50.36666666666667
+Washington Commanders,24.0,WAS,4,RB,18.46666666666667
+Tampa Bay Buccaneers,23.2,TB,4,RB,17.5
+Houston Texans,22.8,HOU,4,RB,26.166666666666668
+Pittsburgh Steelers,21.04,PIT,4,RB,26.03333333333333
+Jacksonville Jaguars,20.9,JAX,4,RB,15.666666666666666
+New England Patriots,20.2,NE,4,RB,22.133333333333336
+New York Giants,18.9,NYG,4,RB,25.599999999999998
+Cleveland Browns,18.0,CLE,4,RB,12.633333333333333
+Carolina Panthers,17.9,CAR,4,RB,33.53333333333334
+Kansas City Chiefs,16.8,KC,4,RB,13.566666666666668
+Philadelphia Eagles,16.7,PHI,4,RB,13.633333333333333
+Seattle Seahawks,15.7,SEA,4,RB,24.133333333333336
+Baltimore Ravens,15.6,BAL,4,RB,18.233333333333334
+New Orleans Saints,13.7,NO,4,RB,15.6
+Minnesota Vikings,13.5,MIN,4,RB,16.333333333333332
+San Francisco 49ers,12.0,SF,4,RB,20.333333333333332
+Las Vegas Raiders,11.2,LV,4,RB,26.03333333333333
+Atlanta Falcons,11.0,ATL,4,RB,13.533333333333333
+Dallas Cowboys,10.2,DAL,4,RB,13.366666666666665
+Los Angeles Rams,9.7,LA,4,RB,17.166666666666668
+Tennessee Titans,9.7,TEN,4,RB,14.366666666666665
+Detroit Lions,3.5,DET,4,RB,17.966666666666665
+Philadelphia Eagles,63.1,PHI,4,WR,40.26666666666667
+Miami Dolphins,57.9,MIA,4,WR,36.266666666666666
+Washington Commanders,55.4,WAS,4,WR,39.166666666666664
+New Orleans Saints,51.9,NO,4,WR,31.766666666666666
+Pittsburgh Steelers,48.5,PIT,4,WR,46.23333333333333
+New England Patriots,47.9,NE,4,WR,31.099999999999998
+San Francisco 49ers,47.2,SF,4,WR,36.166666666666664
+Detroit Lions,44.0,DET,4,WR,29.833333333333332
+Indianapolis Colts,43.6,IND,4,WR,42.9
+Denver Broncos,42.2,DEN,4,WR,38.266666666666666
+Buffalo Bills,38.8,BUF,4,WR,25.233333333333334
+Minnesota Vikings,37.5,MIN,4,WR,53.31999999999999
+Chicago Bears,36.1,CHI,4,WR,35.5
+Kansas City Chiefs,35.6,KC,4,WR,26.919999999999998
+Las Vegas Raiders,34.4,LV,4,WR,36.23333333333333
+Cincinnati Bengals,31.8,CIN,4,WR,31.7
+Green Bay Packers,31.3,GB,4,WR,28.766666666666666
+Arizona Cardinals,29.2,ARI,4,WR,31.933333333333337
+Atlanta Falcons,29.1,ATL,4,WR,27.566666666666663
+Carolina Panthers,29.1,CAR,4,WR,26.2
+Seattle Seahawks,28.5,SEA,4,WR,54.76666666666667
+Tennessee Titans,27.5,TEN,4,WR,49.46666666666667
+New York Giants,27.3,NYG,4,WR,33.1
+Los Angeles Chargers,24.0,LAC,4,WR,55.13333333333333
+Dallas Cowboys,19.8,DAL,4,WR,24.400000000000002
+Tampa Bay Buccaneers,17.0,TB,4,WR,39.2
+Los Angeles Rams,16.3,LA,4,WR,32.733333333333334
+Jacksonville Jaguars,15.7,JAX,4,WR,36.36666666666667
+New York Jets,15.4,NYJ,4,WR,28.866666666666664
+Houston Texans,13.2,HOU,4,WR,30.03333333333333
+Cleveland Browns,12.2,CLE,4,WR,18.566666666666666
+Baltimore Ravens,8.8,BAL,4,WR,44.03333333333333
+Denver Broncos,31.4,DEN,4,TE,9.133333333333333
+Los Angeles Rams,28.7,LA,4,TE,6.066666666666666
+Cleveland Browns,25.0,CLE,4,TE,3.2000000000000006
+New York Jets,22.4,NYJ,4,TE,16.96666666666667
+Kansas City Chiefs,21.5,KC,4,TE,9.5
+Jacksonville Jaguars,19.6,JAX,4,TE,15.833333333333334
+Cincinnati Bengals,16.5,CIN,4,TE,14.833333333333334
+Atlanta Falcons,15.9,ATL,4,TE,15.233333333333334
+New England Patriots,14.7,NE,4,TE,4.266666666666667
+Baltimore Ravens,13.6,BAL,4,TE,4.166666666666667
+Pittsburgh Steelers,13.2,PIT,4,TE,4.966666666666667
+Indianapolis Colts,12.9,IND,4,TE,10.9
+San Francisco 49ers,12.8,SF,4,TE,7.3999999999999995
+Dallas Cowboys,11.3,DAL,4,TE,8.4
+Detroit Lions,11.0,DET,4,TE,18.3
+New Orleans Saints,10.3,NO,4,TE,5.3
+Green Bay Packers,9.6,GB,4,TE,11.9
+Miami Dolphins,8.9,MIA,4,TE,14.366666666666667
+Philadelphia Eagles,8.9,PHI,4,TE,18.23333333333333
+New York Giants,8.3,NYG,4,TE,11.966666666666669
+Buffalo Bills,8.1,BUF,4,TE,5.7
+Seattle Seahawks,6.7,SEA,4,TE,9.566666666666668
+Houston Texans,5.7,HOU,4,TE,13.066666666666668
+Chicago Bears,4.8,CHI,4,TE,13.633333333333333
+Tennessee Titans,4.7,TEN,4,TE,8.733333333333334
+Washington Commanders,4.5,WAS,4,TE,5.6000000000000005
+Carolina Panthers,4.4,CAR,4,TE,12.44
+Tampa Bay Buccaneers,3.22,TB,4,TE,12.066666666666668
+Las Vegas Raiders,2.9,LV,4,TE,15.433333333333335
+Los Angeles Chargers,2.1,LAC,4,TE,12.366666666666667
+Arizona Cardinals,1.9,ARI,4,TE,11.9
+Minnesota Vikings,1.7,MIN,4,TE,11.833333333333334
+Washington Commanders,32.98,WAS,5,QB,23.733333333333334
+Jacksonville Jaguars,27.76,JAX,5,QB,16.013333333333332
+Los Angeles Rams,27.32,LA,5,QB,17.5
+Carolina Panthers,27.24,CAR,5,QB,10.573333333333332
+Houston Texans,26.16,HOU,5,QB,15.926666666666664
+Dallas Cowboys,26.02,DAL,5,QB,9.479999999999999
+Chicago Bears,25.42,CHI,5,QB,21.14
+Arizona Cardinals,23.38,ARI,5,QB,22.106666666666666
+Kansas City Chiefs,19.86,KC,5,QB,13.033333333333331
+Minnesota Vikings,19.24,MIN,5,QB,20.560000000000002
+New York Jets,18.74,NYJ,5,QB,15.386666666666668
+Detroit Lions,18.38,DET,5,QB,15.700000000000001
+New York Giants,16.92,NYG,5,QB,19.41333333333333
+Philadelphia Eagles,16.88,PHI,5,QB,19.400000000000002
+Buffalo Bills,15.7,BUF,5,QB,7.359999999999999
+New England Patriots,15.32,NE,5,QB,11.193333333333333
+Atlanta Falcons,14.16,ATL,5,QB,18.28
+Baltimore Ravens,12.36,BAL,5,QB,9.9
+Miami Dolphins,12.0,MIA,5,QB,21.393333333333334
+Tennessee Titans,10.72,TEN,5,QB,16.02
+Green Bay Packers,10.72,GB,5,QB,14.979999999999999
+Pittsburgh Steelers,9.94,PIT,5,QB,17.03333333333333
+Indianapolis Colts,9.76,IND,5,QB,21.933333333333337
+Cincinnati Bengals,8.74,CIN,5,QB,15.680000000000001
+Denver Broncos,8.56,DEN,5,QB,28.03333333333333
+Las Vegas Raiders,4.98,LV,5,QB,21.78
+San Francisco 49ers,4.44,SF,5,QB,13.853333333333333
+Cleveland Browns,0.0,CLE,5,QB,14.46
+Los Angeles Chargers,0.0,LAC,5,QB,18.846666666666668
+Seattle Seahawks,0.0,SEA,5,QB,18.393333333333334
+Tampa Bay Buccaneers,0.0,TB,5,QB,11.933333333333332
+New Orleans Saints,-0.72,NO,5,QB,20.24
+Dallas Cowboys,41.4,DAL,5,RB,12.1
+Tennessee Titans,37.9,TEN,5,RB,15.033333333333331
+New York Giants,37.3,NYG,5,RB,23.433333333333334
+Buffalo Bills,37.2,BUF,5,RB,19.266666666666666
+Denver Broncos,35.9,DEN,5,RB,54.99999999999999
+Carolina Panthers,33.9,CAR,5,RB,24.600000000000005
+New England Patriots,31.7,NE,5,RB,23.96666666666667
+New York Jets,31.4,NYJ,5,RB,25.366666666666664
+Indianapolis Colts,26.1,IND,5,RB,20.133333333333336
+Houston Texans,23.3,HOU,5,RB,23.833333333333332
+Green Bay Packers,22.4,GB,5,RB,27.600000000000005
+Los Angeles Rams,20.2,LA,5,RB,15.533333333333333
+Chicago Bears,18.7,CHI,5,RB,32.766666666666666
+Minnesota Vikings,18.3,MIN,5,RB,16.8
+Kansas City Chiefs,17.9,KC,5,RB,12.033333333333333
+Cincinnati Bengals,17.3,CIN,5,RB,20.72666666666667
+Pittsburgh Steelers,17.3,PIT,5,RB,24.080000000000002
+Las Vegas Raiders,16.3,LV,5,RB,22.066666666666663
+Baltimore Ravens,15.9,BAL,5,RB,19.1
+Arizona Cardinals,15.1,ARI,5,RB,37.733333333333334
+Washington Commanders,12.1,WAS,5,RB,22.599999999999998
+New Orleans Saints,11.7,NO,5,RB,14.266666666666666
+San Francisco 49ers,11.7,SF,5,RB,19.266666666666666
+Atlanta Falcons,9.2,ATL,5,RB,10.299999999999999
+Jacksonville Jaguars,8.1,JAX,5,RB,19.73333333333333
+Philadelphia Eagles,7.8,PHI,5,RB,10.6
+Miami Dolphins,7.0,MIA,5,RB,18.633333333333333
+Detroit Lions,5.7,DET,5,RB,14.033333333333331
+Cleveland Browns,0.0,CLE,5,RB,14.266666666666666
+Los Angeles Chargers,0.0,LAC,5,RB,28.099999999999998
+Seattle Seahawks,0.0,SEA,5,RB,20.6
+Tampa Bay Buccaneers,0.0,TB,5,RB,18.933333333333334
+Arizona Cardinals,79.2,ARI,5,WR,33.300000000000004
+New York Giants,59.1,NYG,5,WR,32.733333333333334
+Jacksonville Jaguars,57.7,JAX,5,WR,31.2
+Detroit Lions,53.4,DET,5,WR,34.666666666666664
+Washington Commanders,49.0,WAS,5,WR,50.93333333333334
+Philadelphia Eagles,48.8,PHI,5,WR,48.06666666666666
+Buffalo Bills,46.4,BUF,5,WR,29.166666666666668
+Kansas City Chiefs,43.3,KC,5,WR,27.153333333333336
+Chicago Bears,41.6,CHI,5,WR,37.86666666666667
+Minnesota Vikings,38.7,MIN,5,WR,52.31999999999999
+Green Bay Packers,32.6,GB,5,WR,31.466666666666665
+Baltimore Ravens,32.5,BAL,5,WR,34.0
+Carolina Panthers,31.5,CAR,5,WR,33.86666666666667
+Cincinnati Bengals,29.5,CIN,5,WR,36.26666666666667
+Tennessee Titans,28.3,TEN,5,WR,42.199999999999996
+Pittsburgh Steelers,27.8,PIT,5,WR,47.666666666666664
+New England Patriots,25.6,NE,5,WR,34.96666666666667
+Dallas Cowboys,25.3,DAL,5,WR,28.633333333333336
+Atlanta Falcons,25.2,ATL,5,WR,32.166666666666664
+Houston Texans,24.68,HOU,5,WR,24.466666666666665
+San Francisco 49ers,24.3,SF,5,WR,39.4
+Indianapolis Colts,23.9,IND,5,WR,43.333333333333336
+Miami Dolphins,22.9,MIA,5,WR,46.06666666666666
+Los Angeles Rams,22.7,LA,5,WR,31.166666666666668
+New Orleans Saints,17.3,NO,5,WR,39.73333333333333
+Las Vegas Raiders,16.7,LV,5,WR,37.6
+New York Jets,14.6,NYJ,5,WR,22.099999999999998
+Denver Broncos,12.7,DEN,5,WR,37.93333333333333
+Cleveland Browns,0.0,CLE,5,WR,18.599999999999998
+Los Angeles Chargers,0.0,LAC,5,WR,37.06666666666667
+Seattle Seahawks,0.0,SEA,5,WR,48.866666666666674
+Tampa Bay Buccaneers,0.0,TB,5,WR,29.46666666666667
+Dallas Cowboys,27.7,DAL,5,TE,8.366666666666667
+Los Angeles Rams,27.1,LA,5,TE,13.799999999999999
+Minnesota Vikings,26.8,MIN,5,TE,11.100000000000001
+Chicago Bears,26.5,CHI,5,TE,12.566666666666665
+Houston Texans,26.4,HOU,5,TE,14.5
+Carolina Panthers,24.3,CAR,5,TE,11.773333333333333
+Atlanta Falcons,22.7,ATL,5,TE,15.1
+Miami Dolphins,18.3,MIA,5,TE,12.166666666666666
+Washington Commanders,18.2,WAS,5,TE,2.966666666666667
+Detroit Lions,16.0,DET,5,TE,16.866666666666664
+Denver Broncos,15.1,DEN,5,TE,18.599999999999998
+Las Vegas Raiders,14.5,LV,5,TE,12.200000000000001
+Indianapolis Colts,13.1,IND,5,TE,11.9
+Kansas City Chiefs,12.7,KC,5,TE,12.466666666666667
+Cincinnati Bengals,12.7,CIN,5,TE,15.299999999999999
+New York Jets,12.6,NYJ,5,TE,20.400000000000002
+Pittsburgh Steelers,12.5,PIT,5,TE,7.733333333333333
+New England Patriots,10.6,NE,5,TE,9.166666666666666
+Tennessee Titans,9.8,TEN,5,TE,7.966666666666668
+Buffalo Bills,9.4,BUF,5,TE,8.0
+Green Bay Packers,9.0,GB,5,TE,11.966666666666667
+Jacksonville Jaguars,8.6,JAX,5,TE,18.733333333333334
+San Francisco 49ers,5.8,SF,5,TE,7.933333333333334
+Baltimore Ravens,5.3,BAL,5,TE,7.2
+Philadelphia Eagles,4.0,PHI,5,TE,13.466666666666667
+New Orleans Saints,3.7,NO,5,TE,8.733333333333334
+New York Giants,0.0,NYG,5,TE,13.700000000000001
+Cleveland Browns,0.0,CLE,5,TE,9.966666666666667
+Arizona Cardinals,0.0,ARI,5,TE,8.866666666666665
+Los Angeles Chargers,0.0,LAC,5,TE,10.6
+Seattle Seahawks,0.0,SEA,5,TE,8.133333333333335
+Tampa Bay Buccaneers,0.0,TB,5,TE,7.239999999999999
+Denver Broncos,17.34,DEN,6,QB,23.799999999999997
+Kansas City Chiefs,6.9,KC,6,QB,16.573333333333334
+Miami Dolphins,0.0,MIA,6,QB,20.813333333333336
+Los Angeles Rams,0.0,LA,6,QB,21.69333333333334
+Minnesota Vikings,0.0,MIN,6,QB,18.566666666666666
+New England Patriots,0.0,NE,6,QB,12.213333333333333
+New Orleans Saints,0.0,NO,6,QB,15.493333333333334
+New York Giants,0.0,NYG,6,QB,16.646666666666665
+New York Jets,0.0,NYJ,6,QB,15.1
+Philadelphia Eagles,0.0,PHI,6,QB,15.506666666666666
+Arizona Cardinals,0.0,ARI,6,QB,19.653333333333332
+Pittsburgh Steelers,0.0,PIT,6,QB,16.48
+Los Angeles Chargers,0.0,LAC,6,QB,11.833333333333334
+San Francisco 49ers,0.0,SF,6,QB,10.673333333333332
+Seattle Seahawks,0.0,SEA,6,QB,10.753333333333332
+Tampa Bay Buccaneers,0.0,TB,6,QB,7.019999999999999
+Washington Commanders,0.0,WAS,6,QB,26.08666666666667
+Las Vegas Raiders,0.0,LV,6,QB,15.62
+Atlanta Falcons,0.0,ATL,6,QB,16.22
+Jacksonville Jaguars,0.0,JAX,6,QB,18.200000000000003
+Indianapolis Colts,0.0,IND,6,QB,18.03333333333333
+Houston Texans,0.0,HOU,6,QB,15.020000000000001
+Tennessee Titans,0.0,TEN,6,QB,12.193333333333335
+Green Bay Packers,0.0,GB,6,QB,11.426666666666668
+Detroit Lions,0.0,DET,6,QB,14.12
+Dallas Cowboys,0.0,DAL,6,QB,15.353333333333332
+Cleveland Browns,0.0,CLE,6,QB,11.033333333333331
+Cincinnati Bengals,0.0,CIN,6,QB,10.966666666666667
+Chicago Bears,0.0,CHI,6,QB,23.486666666666668
+Carolina Panthers,0.0,CAR,6,QB,17.41333333333333
+Buffalo Bills,0.0,BUF,6,QB,10.093333333333334
+Baltimore Ravens,0.0,BAL,6,QB,8.893333333333333
+Denver Broncos,23.4,DEN,6,RB,54.56666666666666
+Kansas City Chiefs,15.2,KC,6,RB,15.033333333333333
+Miami Dolphins,0.0,MIA,6,RB,15.533333333333331
+Los Angeles Rams,0.0,LA,6,RB,14.766666666666666
+Minnesota Vikings,0.0,MIN,6,RB,11.733333333333334
+New England Patriots,0.0,NE,6,RB,22.96666666666667
+New Orleans Saints,0.0,NO,6,RB,12.266666666666666
+New York Giants,0.0,NYG,6,RB,29.299999999999997
+New York Jets,0.0,NYJ,6,RB,25.366666666666664
+Philadelphia Eagles,0.0,PHI,6,RB,10.6
+Arizona Cardinals,0.0,ARI,6,RB,33.53333333333333
+Pittsburgh Steelers,0.0,PIT,6,RB,17.646666666666665
+Los Angeles Chargers,0.0,LAC,6,RB,19.433333333333334
+San Francisco 49ers,0.0,SF,6,RB,13.366666666666665
+Seattle Seahawks,0.0,SEA,6,RB,11.766666666666666
+Tampa Bay Buccaneers,0.0,TB,6,RB,14.6
+Washington Commanders,0.0,WAS,6,RB,19.966666666666665
+Las Vegas Raiders,0.0,LV,6,RB,14.066666666666668
+Atlanta Falcons,0.0,ATL,6,RB,10.733333333333334
+Jacksonville Jaguars,0.0,JAX,6,RB,16.8
+Indianapolis Colts,0.0,IND,6,RB,25.733333333333338
+Houston Texans,0.0,HOU,6,RB,24.7
+Tennessee Titans,0.0,TEN,6,RB,24.96666666666667
+Green Bay Packers,0.0,GB,6,RB,26.400000000000002
+Detroit Lions,0.0,DET,6,RB,8.033333333333333
+Dallas Cowboys,0.0,DAL,6,RB,24.833333333333332
+Cleveland Browns,0.0,CLE,6,RB,8.299999999999999
+Cincinnati Bengals,0.0,CIN,6,RB,19.66
+Chicago Bears,0.0,CHI,6,RB,31.266666666666666
+Carolina Panthers,0.0,CAR,6,RB,29.8
+Buffalo Bills,0.0,BUF,6,RB,27.8
+Baltimore Ravens,0.0,BAL,6,RB,19.033333333333335
+Denver Broncos,24.8,DEN,6,WR,31.066666666666666
+Kansas City Chiefs,19.0,KC,6,WR,32.03333333333333
+Miami Dolphins,0.0,MIA,6,WR,44.26666666666667
+Los Angeles Rams,0.0,LA,6,WR,26.566666666666666
+Minnesota Vikings,0.0,MIN,6,WR,55.22
+New England Patriots,0.0,NE,6,WR,30.8
+New Orleans Saints,0.0,NO,6,WR,35.766666666666666
+New York Giants,0.0,NYG,6,WR,42.333333333333336
+New York Jets,0.0,NYJ,6,WR,15.666666666666666
+Philadelphia Eagles,0.0,PHI,6,WR,47.166666666666664
+Arizona Cardinals,0.0,ARI,6,WR,45.833333333333336
+Pittsburgh Steelers,0.0,PIT,6,WR,46.76666666666667
+Los Angeles Chargers,0.0,LAC,6,WR,25.066666666666666
+San Francisco 49ers,0.0,SF,6,WR,30.733333333333334
+Seattle Seahawks,0.0,SEA,6,WR,31.3
+Tampa Bay Buccaneers,0.0,TB,6,WR,19.900000000000002
+Washington Commanders,0.0,WAS,6,WR,47.46666666666667
+Las Vegas Raiders,0.0,LV,6,WR,28.066666666666666
+Atlanta Falcons,0.0,ATL,6,WR,27.8
+Jacksonville Jaguars,0.0,JAX,6,WR,38.0
+Indianapolis Colts,0.0,IND,6,WR,30.0
+Houston Texans,0.0,HOU,6,WR,23.426666666666666
+Tennessee Titans,0.0,TEN,6,WR,33.4
+Green Bay Packers,0.0,GB,6,WR,33.1
+Detroit Lions,0.0,DET,6,WR,36.1
+Dallas Cowboys,0.0,DAL,6,WR,29.666666666666668
+Cleveland Browns,0.0,CLE,6,WR,9.200000000000001
+Cincinnati Bengals,0.0,CIN,6,WR,32.666666666666664
+Chicago Bears,0.0,CHI,6,WR,36.5
+Carolina Panthers,0.0,CAR,6,WR,31.900000000000002
+Buffalo Bills,0.0,BUF,6,WR,35.6
+Baltimore Ravens,0.0,BAL,6,WR,26.76666666666667
+Denver Broncos,24.9,DEN,6,TE,16.333333333333332
+Kansas City Chiefs,2.7,KC,6,TE,12.799999999999999
+Miami Dolphins,0.0,MIA,6,TE,9.766666666666667
+Los Angeles Rams,0.0,LA,6,TE,20.833333333333332
+Minnesota Vikings,0.0,MIN,6,TE,17.3
+New England Patriots,0.0,NE,6,TE,10.933333333333332
+New Orleans Saints,0.0,NO,6,TE,8.3
+New York Giants,0.0,NYG,6,TE,8.1
+New York Jets,0.0,NYJ,6,TE,18.866666666666667
+Philadelphia Eagles,0.0,PHI,6,TE,5.166666666666667
+Arizona Cardinals,0.0,ARI,6,TE,4.333333333333333
+Pittsburgh Steelers,0.0,PIT,6,TE,9.233333333333333
+Los Angeles Chargers,0.0,LAC,6,TE,8.1
+San Francisco 49ers,0.0,SF,6,TE,8.466666666666667
+Seattle Seahawks,0.0,SEA,6,TE,4.366666666666667
+Tampa Bay Buccaneers,0.0,TB,6,TE,4.64
+Washington Commanders,0.0,WAS,6,TE,9.033333333333333
+Las Vegas Raiders,0.0,LV,6,TE,10.166666666666666
+Atlanta Falcons,0.0,ATL,6,TE,20.333333333333332
+Jacksonville Jaguars,0.0,JAX,6,TE,15.133333333333333
+Indianapolis Colts,0.0,IND,6,TE,12.166666666666666
+Houston Texans,0.0,HOU,6,TE,16.633333333333333
+Tennessee Titans,0.0,TEN,6,TE,6.966666666666668
+Green Bay Packers,0.0,GB,6,TE,10.899999999999999
+Detroit Lions,0.0,DET,6,TE,14.799999999999999
+Dallas Cowboys,0.0,DAL,6,TE,14.266666666666666
+Cleveland Browns,0.0,CLE,6,TE,9.566666666666668
+Cincinnati Bengals,0.0,CIN,6,TE,13.766666666666666
+Chicago Bears,0.0,CHI,6,TE,17.7
+Carolina Panthers,0.0,CAR,6,TE,14.533333333333331
+Buffalo Bills,0.0,BUF,6,TE,9.399999999999999
+Baltimore Ravens,0.0,BAL,6,TE,7.966666666666666
